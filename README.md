@@ -7,7 +7,7 @@ A cartridge for openshift that enables Nginx to be used as the web server.
 
 To install this cartridge use the cartridge reflector when creating an app
 
-	rhc create-app myapp http://cartreflect-claytondev.rhcloud.com/reflect?github=gsterjov/openshift-nginx-cartridge
+	rhc create-app nginx http://cartreflect-claytondev.rhcloud.com/reflect?github=kalinichenko/openshift-nginx-cartridge
 
 
 ### Configuration
